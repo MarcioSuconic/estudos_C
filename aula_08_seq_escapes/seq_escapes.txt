@@ -1,0 +1,11 @@
+\ caracteres de escapes
+
+\' aspas simples
+\"
+\?
+\\
+\n proxima linha
+\r coloca o cursor no inicio da linha atual
+\t tabulação horizontal
+\v tabulação vertical
+\a envia sinal sonoro

@@ -1,0 +1,19 @@
+lê valores do teclado e armazena em uma memória
+
+scanf (string_controle_formatação, argumentos)
+
+argumentos - ponteiros 
+
+& - saber que tem que pegar a informacao no endereco de memoria (ponteiros)
+
+d - inteiro decimal
+i - inteiro decimal, octal ou hexadecimal (# printf)
+o - inteiro octal sem sinal
+u - inteiro hexadecimal
+x ou X - inteiro hexadecimal
+h ou l - short(h) long(l) - antes de um inteiro
+f,e ou E - ponto flutuante
+L - long double (ponto flutuante)
+c - NULL (\0) não é adicionado
+s - ler uma cadeia de caracteres (string), inclui o caractere de terminação NULL (/0)
+[conjunto de caracteres] - varre uma string e lê os caracteres do array indicado

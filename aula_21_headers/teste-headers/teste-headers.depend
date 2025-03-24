@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1742827529 source:c:\projetos\estudos\estudos_c_boson\aula_21_headers\teste-headers\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculos.h"
+
+1742827292 source:c:\projetos\estudos\estudos_c_boson\aula_21_headers\teste-headers\calculos.c
+	"calculos.h"
+
+1742826985 c:\projetos\estudos\estudos_c_boson\aula_21_headers\teste-headers\calculos.h
+
